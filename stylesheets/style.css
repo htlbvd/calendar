@@ -1,0 +1,23 @@
+
+body{
+
+}
+ul,li{
+	margin: 0;
+	padding: 0;
+}
+ul {
+	background-color: #0f0;
+	float:left;
+	width:700px;
+}
+li {
+	list-style: none;
+	background-color: #cfc;
+	float: left;
+	width:80px;
+	height:80px;
+	border-style:inset;
+	border-width:10px;
+
+}
